@@ -128,6 +128,16 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="Assests\Images\background.jpg" />
+    <Content Include="Assests\Images\contact.png" />
+    <Content Include="Assests\Images\fb.png" />
+    <Content Include="Assests\Images\github.png" />
+    <Content Include="Assests\Images\icon.png" />
+    <Content Include="Assests\Images\insta.png" />
+    <Content Include="Assests\Images\logo.png" />
+    <Content Include="Assests\Images\pic.jpg" />
+    <Content Include="Assests\Images\resume.gif" />
+    <Content Include="Assests\Images\resume.png" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />

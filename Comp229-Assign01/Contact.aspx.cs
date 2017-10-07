@@ -17,7 +17,7 @@ namespace Comp229_Assign01
         }
         protected void SendButton_Click(object sender, EventArgs e)
         {
-            SendButton.PostBackUrl = "default.aspx";
+            SendButton.PostBackUrl = "Default.aspx";
         }
     }
 }
